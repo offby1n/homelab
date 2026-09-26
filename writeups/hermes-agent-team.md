@@ -59,7 +59,7 @@ The goal: something I never have to babysit that can't run up a bill.
 - **Search can't bill.** Tavily's free tier (1,000 searches a month, no card on file) stops at the limit.
 - **Backstop:** a spend cap on the OpenRouter account.
 
-**Measured:** total OpenRouter spend for the day I built and tested all of this: **$__**
+**Measured:** total OpenRouter spend for the day I built and tested all of this: **$0.06**
 
 ## What Broke
 
